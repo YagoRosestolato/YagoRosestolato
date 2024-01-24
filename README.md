@@ -23,7 +23,7 @@
 
 
 ### Studying in this moment:
-https://img.shields.io/wordpress/plugin/required-php/:slug
+PHP
 
 
 
