@@ -23,8 +23,8 @@
 
 
 ### Studying in this moment:
-[![php](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;](https://img.shields.io/wordpress/plugin/required-php/:slug
-)
+https://img.shields.io/wordpress/plugin/required-php/:slug
+
 
 
 <div align="center">
