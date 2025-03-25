@@ -23,7 +23,7 @@
 
 
 ### Studying in this moment:
-PHP
+Python
 
 
 
